@@ -1,7 +1,3 @@
-# react-starter-kit
-Simple react configuration including babel and webpack to get started
+# React Weather App
 
-# Get started
-- "npm install" from root folder
-- "npm run start" to start webserver
-- go to http://localhost:8080/
+application for https://github.com/ReactjsProgram/react-fundamentals-curriculum
